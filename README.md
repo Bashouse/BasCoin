@@ -1,4 +1,6 @@
 
+
+
 # BasCoin
 BasCoin cryptoclone
 
@@ -44,7 +46,10 @@ transfer address amount
 
 Good luck!
 
-  
+be patient
+
+sourcecode and cloning manual are coming!
+
 
   
  
