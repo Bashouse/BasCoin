@@ -1,10 +1,9 @@
-
-
-
 # BasCoin
 BasCoin cryptoclone
 
 how to use:
+
+download zip and unpack
 
 start daemon (doubleclick)
 
