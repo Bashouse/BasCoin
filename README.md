@@ -1,3 +1,4 @@
+
 # BasCoin
 # BasCoin cryptoclone
 #
@@ -17,10 +18,14 @@
 # start miner.bat (doubleclick)
 # Happy mining!
 #  
-#start wallet 
+#start wallet
+
 #balance
+
 #save
+
 #exit
+
 # transfer coins from wallet:
 # transfer address amount
 #
