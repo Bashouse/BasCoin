@@ -45,9 +45,7 @@ transfer address amount
 
 Good luck!
 
-be patient
-
-sourcecode and cloning manual are coming!
+be patient cloning manual is coming!
 
 
   
